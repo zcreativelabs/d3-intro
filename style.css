@@ -1,0 +1,16 @@
+
+html,
+body {
+  margin: 0;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  color: #051C2C;
+}
+
+.svg {
+  max-width: 56rem;
+  margin: 2.5rem auto;
+  border: 1px solid #EEE;
+}
